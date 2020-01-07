@@ -1,0 +1,1 @@
+The StreamWriter class inherits from the abstract class TextWriter that represents a writer

@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp2.1\AlgorithmPrograms.deps.json
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp2.1\AlgorithmPrograms.runtimeconfig.json
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp2.1\AlgorithmPrograms.runtimeconfig.dev.json
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp2.1\AlgorithmPrograms.dll
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\bin\Debug\netcoreapp2.1\AlgorithmPrograms.pdb
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp2.1\AlgorithmPrograms.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp2.1\AlgorithmPrograms.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp2.1\AlgorithmPrograms.AssemblyInfo.cs
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp2.1\AlgorithmPrograms.dll
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp2.1\AlgorithmPrograms.pdb
+C:\Users\admin\source\repos\AlgorithmPrograms\AlgorithmPrograms\obj\Debug\netcoreapp2.1\AlgorithmPrograms.csprojAssemblyReference.cache

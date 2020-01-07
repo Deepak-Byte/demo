@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Creational_Pattern\Creational_Pattern\bin\Debug\Creational_Pattern.exe.config
+C:\Users\admin\source\repos\Creational_Pattern\Creational_Pattern\bin\Debug\Creational_Pattern.exe
+C:\Users\admin\source\repos\Creational_Pattern\Creational_Pattern\bin\Debug\Creational_Pattern.pdb
+C:\Users\admin\source\repos\Creational_Pattern\Creational_Pattern\obj\Debug\Creational_Pattern.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Creational_Pattern\Creational_Pattern\obj\Debug\Creational_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Creational_Pattern\Creational_Pattern\obj\Debug\Creational_Pattern.exe
+C:\Users\admin\source\repos\Creational_Pattern\Creational_Pattern\obj\Debug\Creational_Pattern.pdb
