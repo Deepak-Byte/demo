@@ -1,0 +1,68 @@
+{
+  "Transaction": [
+    {
+      "Name": "dsf",
+      "Company": "Capgemini",
+      "Date": "11-09-2019",
+      "Deducated_Amount": "400",
+      "Shares": "500",
+      "Total_Amount": "120"
+    },
+    {
+      "Name": "wsdf",
+      "Company": "Capgemini",
+      "Date": "11-09-2019",
+      "Shares": "1",
+      "Deducated_Amount": "400",
+      "Total_Amount": "140"
+    },
+    {
+      "Name": "dfvg",
+      "Company": "Capgemini",
+      "Date": "11-09-2019",
+      "Shares": "2",
+      "Deducated_Amount": "800",
+      "Total_Amount": "4951"
+    },
+    {
+      "Name": "dsf",
+      "Company": "Capgemini",
+      "Date": "11-09-2019",
+      "Shares": "10",
+      "Deducated_Amount": "4000",
+      "Total_Amount": "54472"
+    },
+    {
+      "Name": "Sam",
+      "Company": "Capgemini",
+      "Date": "11-09-2019",
+      "Shares": "1",
+      "Deducated_Amount": "400",
+      "Total_Amount": "142"
+    },
+    {
+      "Name": "Ajay Kumar",
+      "Company": "Capgemini",
+      "Date": "11-09-2019",
+      "Shares": "1",
+      "Deducated_Amount": "400",
+      "Total_Amount": "4600"
+    },
+    {
+      "Name": "Ajay Kumar",
+      "Company": "Capgemini",
+      "Date": "11-09-2019",
+      "Shares": "1",
+      "Deducated_Amount": "400",
+      "Total_Amount": "100"
+    },
+    {
+      "Name": "Manisha Patil",
+      "Company": "Capgemini",
+      "Date": "11-11-2019",
+      "Shares": "10",
+      "Deducated_Amount": "4000",
+      "Total_Amount": "1000"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "Stock": [
+    {
+      "name": "NYSE:G",
+      "nNumberofshare": 20,
+      "price": 100
+    },
+    {
+      "name": "NYSE:H",
+      "numberofshare": 30,
+      "price": 200
+    },
+    {
+      "name": "NYSE:j",
+      "numberofshare": 25,
+      "price": 150
+    },
+    {
+      "Name": "UTF-8",
+      "Weight": 10,
+      "Price": 100
+    },
+    {
+      "Name": "koko",
+      "Weight": 10,
+      "Price": 120
+    },
+    {
+      "Name": "Aj1",
+      "Weight": 10,
+      "Price": 100
+    },
+    {
+      "Name": "Aj2",
+      "Weight": 10,
+      "Price": 200
+    },
+    {
+      "Name": "Bombay Stock",
+      "Weight": 400,
+      "Price": 120
+    }
+  ]
+}

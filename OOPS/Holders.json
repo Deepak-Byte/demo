@@ -1,0 +1,126 @@
+{
+  "Capgemini" : [
+    {
+      "Name": "Director",
+      "Shares": 5100,
+      "Money": 5000,
+      "Company": "Capgemini",
+      "Date": "1-1-2019",
+      "Since": 2019
+    },
+    {
+      "Name": "Foreign Promoters",
+      "Shares": 29681581,
+      "Money": 6000,
+      "Company": "Capgemini",
+      "Date": "02-2-2019",
+      "Since": 2019
+    },
+    {
+      "Name": "General Public",
+      "Shares": 1110023,
+      "Money": 7000,
+      "Company": "Capgemini",
+      "Date": "04-2-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "Foreign Institutions",
+      "Shares": 637698,
+      "Money": 4000,
+      "Company": "Capgemini",
+      "Date": "02-02-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "Other Companies",
+      "Shares": 637698,
+      "Money": 3000,
+      "Company": "Capgemini",
+      "Date": "03-02-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "Foreign-NRI",
+      "Shares": 67698,
+      "Money": 8000,
+      "Company": "Capgemini",
+      "Date": "01-02-2016",
+      "Since": 2016
+    },
+    {
+      "Name": "Others",
+      "Shares": 11698,
+      "Money": 5500,
+      "Company": "Capgemini",
+      "Date": "07-08-2015",
+      "Since": 2015
+    },
+    {
+      "Name": "Foreign Industries",
+      "Shares": 7343,
+      "Money": 5400,
+      "Company": "Capgemini",
+      "Date": "08-08-2016",
+      "Since": 2016
+    }
+  ],
+  "TATA_Holders": [
+    {
+      "Name": "Promoters",
+      "Shares": 398823600,
+      "Money": 7000,
+      "Company": "TATA",
+      "Date": "09-01-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "General Public",
+      "Shares": 200984963,
+      "Money": 7200,
+      "Company": "TATA",
+      "Date": "09-01-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "Financial Institutions",
+      "Shares": 186997016,
+      "Money": 7500,
+      "Company": "TATA",
+      "Date": "19-01-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "NBFC and Mutual Funds",
+      "Shares": 177776239,
+      "Money": 7000,
+      "Company": "TATA",
+      "Date": "20-03-2018",
+      "Since": 2018
+    },
+    {
+      "Name": "Foreign Institutions",
+      "Shares": 165646690,
+      "Money": 6000,
+      "Company": "TATA",
+      "Date": "23-06-2018",
+      "Since": 2018
+    },
+    {
+      "Name": "Others",
+      "Shares": 72578728,
+      "Money": 7000,
+      "Company": "TATA",
+      "Date": "29-06-2018",
+      "Since": 2018
+    },
+    {
+      "Name": "Central Government",
+      "Shares": 1319149,
+      "Money": 9000,
+      "Company": "TATA",
+      "Date": "15-09-2017",
+      "Since": 2017
+    }
+  ]
+}

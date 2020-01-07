@@ -1,0 +1,306 @@
+{
+  "Capgemini_Holders": [
+    {
+      "Name": "Director",
+      "Shares": 5100,
+      "Money": 5000,
+      "Date": "01-01-2019",
+      "Since": 2019,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Foreign Promoters",
+      "Shares": 29681581,
+      "Money": 6000,
+      "Date": "02-02-2019",
+      "Since": 2019,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "General Public",
+      "Shares": 1110023,
+      "Money": 7000,
+      "Date": "04-02-2017",
+      "Since": 2017,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Foreign Institutions",
+      "Shares": 637698,
+      "Money": 4000,
+      "Date": "02-02-2017",
+      "Since": 2017,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Other Companies",
+      "Shares": 637698,
+      "Money": 3000,
+      "Date": "03-02-2017",
+      "Since": 2017,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Foreign-NRI",
+      "Shares": 67698,
+      "Money": 8000,
+      "Date": "01-02-2016",
+      "Since": 2016,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Others",
+      "Shares": 11698,
+      "Money": 5500,
+      "Date": "07-08-2015",
+      "Since": 2015,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Foreign Industries",
+      "Shares": 7343,
+      "Money": 5400,
+      "Date": "08-08-2016",
+      "Since": 2016,
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Shweta",
+      "Shares": 1,
+      "Money": 3800,
+      "Since": 2019
+    },
+    {
+      "Name": "Ajay Kumar",
+      "Shares": "1",
+      "Money": "0",
+      "Since": "2019"
+    },
+    {
+      "Name": "Pavan",
+      "Shares": "1",
+      "Money": "100",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini"
+    },
+    {
+      "Name": "Ajay",
+      "Shares": "1",
+      "Money": "100",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Manisha",
+      "Shares": "1",
+      "Money": "182",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Durga",
+      "Shares": "1",
+      "Money": "125",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Saurabh",
+      "Shares": "1",
+      "Money": "121",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Diapk",
+      "Shares": "1",
+      "Money": "0",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Priyanka",
+      "Shares": "1",
+      "Money": "120",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Vaishanvi",
+      "Shares": "1",
+      "Money": "20",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Sam",
+      "Shares": "1",
+      "Money": "142",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Ajay Kumar",
+      "Shares": "1",
+      "Money": "4600",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Ajay Kumar",
+      "Shares": "1",
+      "Money": "100",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "Capgemini_Holders"
+    },
+    {
+      "Name": "Manisha Patil",
+      "Shares": "10",
+      "Money": "1000",
+      "Since": "2019",
+      "Date": "11-11-2019",
+      "Company": "Capgemini_Holders"
+    }
+  ],
+  "TATA_Holders": [
+    {
+      "Name": "Promoters",
+      "Shares": 398823600,
+      "Money": 7000,
+      "Company": "TATA",
+      "Date": "09-01-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "General Public",
+      "Shares": 200984963,
+      "Money": 7200,
+      "Company": "TATA",
+      "Date": "09-01-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "Financial Institutions",
+      "Shares": 186997016,
+      "Money": 7500,
+      "Company": "TATA",
+      "Date": "19-01-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "NBFC and Mutual Funds",
+      "Shares": 177776239,
+      "Money": 7000,
+      "Company": "TATA",
+      "Date": "20-03-2018",
+      "Since": 2018
+    },
+    {
+      "Name": "Foreign Institutions",
+      "Shares": 165646690,
+      "Money": 6000,
+      "Company": "TATA",
+      "Date": "23-06-2018",
+      "Since": 2018
+    },
+    {
+      "Name": "Others",
+      "Shares": 72578728,
+      "Money": 7000,
+      "Company": "TATA",
+      "Date": "29-06-2018",
+      "Since": 2018
+    },
+    {
+      "Name": "Central Government",
+      "Shares": 1319149,
+      "Money": 9000,
+      "Company": "TATA",
+      "Date": "15-09-2017",
+      "Since": 2017
+    },
+    {
+      "Name": "Manisha Ahere",
+      "Shares": "2",
+      "Money": "100",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Shalendra",
+      "Shares": "1",
+      "Money": "100",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Kamlesh",
+      "Shares": "1",
+      "Money": "100",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Afgaan",
+      "Shares": "1",
+      "Money": "382",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Ganesh",
+      "Shares": "2",
+      "Money": "0",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Rajesh",
+      "Shares": "1",
+      "Money": "547",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Sandhya",
+      "Shares": "2",
+      "Money": "20",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Vishal",
+      "Shares": "1",
+      "Money": "655",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    },
+    {
+      "Name": "Sonali",
+      "Shares": "2",
+      "Money": "140",
+      "Since": "2019",
+      "Date": "11-09-2019",
+      "Company": "TATA_Holders"
+    }
+  ]
+}
